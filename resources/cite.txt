@@ -1,0 +1,7 @@
+@article{chen2022resolution,
+  title={Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations},
+  author={Chen, Keyan and Li, Wenyuan and Chen, Jianqi and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2022},
+  publisher={IEEE}
+}

@@ -1,0 +1,491 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <!--
+  <script src="./resources/jsapi" type="text/javascript"></script>
+  <script type="text/javascript" async>google.load("jquery", "1.3.2");</script>
+ -->
+    <style type="text/css">
+        @font-face {
+            font-family: 'Avenir Book';
+            src: url("./fonts/Avenir_Book.ttf"); /* File to be stored at your site */
+        }
+    body {
+    font-family: "Avenir Book", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight:300;
+    font-size:14px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+  }
+  h1 {
+    font-weight:300;
+  }
+  h2 {
+    font-weight:300;
+  }
+
+  p {
+    font-weight:300;
+    line-height: 1.4;
+  }
+
+  code {
+    font-size: 0.8rem;
+    margin: 0 0.2rem;
+    padding: 0.5rem 0.8rem;
+    white-space: nowrap;
+    background: #efefef;
+    border: 1px solid #d3d3d3;
+    color: #000000;
+    border-radius: 3px;
+  }
+
+  pre > code {
+    display: block;
+    white-space: pre;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+  }
+
+  pre.prettyprint > code {
+    border: none;
+  }
+
+
+  .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+  }
+  .image {
+        flex-basis: 40%
+  }
+  .text {
+        padding-left: 20px;
+        padding-right: 20px;
+  }
+
+  .disclaimerbox {
+    background-color: #eee;
+    border: 1px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+    padding: 20px;
+  }
+
+  video.header-vid {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  img.header-img {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  img.rounded {
+    border: 0px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+
+  }
+
+  a:link,a:visited
+  {
+    color: #1367a7;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #208799;
+  }
+
+  td.dl-link {
+    height: 160px;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .layered-paper-big { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35), /* The third layer shadow */
+            15px 15px 0 0px #fff, /* The fourth layer */
+            15px 15px 1px 1px rgba(0,0,0,0.35), /* The fourth layer shadow */
+            20px 20px 0 0px #fff, /* The fifth layer */
+            20px 20px 1px 1px rgba(0,0,0,0.35), /* The fifth layer shadow */
+            25px 25px 0 0px #fff, /* The fifth layer */
+            25px 25px 1px 1px rgba(0,0,0,0.35); /* The fifth layer shadow */
+    margin-left: 10px;
+    margin-right: 45px;
+  }
+
+
+  .layered-paper { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35); /* The third layer shadow */
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+  }
+
+  .vert-cent {
+    position: relative;
+      top: 50%;
+      transform: translateY(-50%);
+  }
+
+  hr
+  {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }
+</style>
+	<title>Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations</title>
+</head>
+
+<body>
+<br>
+<span style="font-size:36px">
+    <div style="text-align: center;">
+        Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations
+    </div>
+</span>
+<br>
+<br>
+<br>
+<table align="center" width="800px">
+    <tr>
+        <td align="center" width="180px">
+            <div style="text-align: center;">
+                <span style="font-size:16px"><a href="https://kyanchen.github.io/">Keyan Chen</a><sup>1,2,3,4</sup></span>
+            </div>
+        </td>
+
+        <td align="center" width="180px">
+            <div style="text-align: center;">
+                <span style="font-size:16px"><a href="https://github.com/flyakon">Wenyuan Li</a><sup>1,2,3,4</sup></span>
+            </div>
+        </td>
+
+        <td align="center" width="180px">
+            <div style="text-align: center;">
+                <span style="font-size:16px"><a href="https://github.com/WindVChen">Jianqi Chen</a><sup>1,2,3,4</sup></span>
+            </div>
+        </td>
+
+        <td align="center" width="180px">
+            <div style="text-align: center;">
+                <span style="font-size:16px"><a href="https://zhengxiazou.github.io/">Zhengxia Zou</a><sup>&#9993 1,4</sup></span>
+            </div>
+        </td>
+
+        <td align="center" width="140px">
+            <div style="text-align: center;">
+                <span style="font-size:16px">
+                    <a href="http://levir.buaa.edu.cn/">Zhenwei Shi</a>
+<!--                    <sup><img class="round" style="width:20px" src="./resources/corresponding_fig.png">3</sup>-->
+                    <sup>1,2,3,4</sup>
+                </span>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<br>
+	
+<table align="center" width="800px">
+    <tbody>
+    <tr>
+        <td align="center" width="200px">
+            <center>
+                <span style="font-size:16px">Beihang University<sup>1</sup></span>
+            </center>
+        </td>
+
+        <td align="center" width="200px">
+            <center>
+                <span style="font-size:16px">Beijing Key Laboratory of Digital Media<sup>2</sup></span>
+            </center>
+        </td>
+
+        <td align="center" width="200px">
+            <center>
+                <span style="font-size:16px">State Key Laboratory of Virtual Reality Technology and Systems<sup>3</sup></span>
+            </center>
+        </td>
+
+        <td align="center" width="200px">
+            <center>
+                <span style="font-size:16px">Shanghai Artificial Intelligence Laboratory<sup>4</sup></span>
+            </center>
+        </td>
+
+    </tr>
+    </tbody>
+</table>
+
+
+<!--<table align="center" width="700px">-->
+<!--    <tbody>-->
+<!--    <tr>-->
+<!--        <td align="center" width="300px">-->
+<!--            <center>-->
+<!--                <span style="font-size:16px"><sup>&star;</sup>equal contribution</span>-->
+<!--            </center>-->
+<!--        </td>-->
+
+<!--        <td align="center" width="300px">-->
+<!--            <center>-->
+<!--                <span style="font-size:16px"><sup>&#9993</sup>corresponding author</span>-->
+<!--            </center>-->
+<!--        </td>-->
+<!--    </tr>-->
+<!--    </tbody>-->
+<!--</table>-->
+
+<table align="center" width="700px">
+    <tbody>
+    <tr>
+        <td align="center" width="200px">
+            <div style="text-align: center;">
+                <span style="font-size:20px">
+                    Code
+                    <a href="https://github.com/KyanChen/RASNet">[GitHub]</a>
+                </span>
+            </div>
+        </td>
+
+        <td align="center" width="200px">
+            <div style="text-align: center;">
+                <span style="font-size:20px">
+                    Paper
+                    <a href="http://levir.buaa.edu.cn/publications/RASNet.pdf">[PDF]</a>
+                </span>
+            </div>
+        </td>
+
+        <td align="center" width="200px">
+            <center>
+                <span style="font-size:20px">
+                    Cite <a href="resources/cite.txt"> [BibTeX]</a>
+                </span>
+            </center>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<br>
+<hr>
+<div style="text-align: center;">
+    <h2>Abstract</h2>
+</div>
+
+<table>
+    <tr>
+        <td>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                Remote sensing scene classification
+                is an important yet challenging task.
+                In recent years, the excellent feature
+                representation ability of Convolutional
+                Neural Networks (CNNs) has led to substantial
+                improvements in scene classification accuracy.
+                However, handling resolution variations of remote
+                sensing images is still challenging because CNNs
+                are not inherently capable of modeling multi-resolution
+                input images. In this letter,
+                we propose a novel scene classification method
+                with scale and resolution adaptation ability by
+                leveraging the recent advances in Implicit Neural
+                Representations (INRs).
+                Unlike previous CNN-based methods
+                that make predictions based on rasterized
+                image inputs, the proposed method converts
+                the images as continuous functions with INRs
+                optimization and then performs classification
+                within the function space. When the image is
+                represented as a function, the image resolution
+                can be decoupled from the pixel values so that
+                the resolution does not have much impact on the
+                classification performance. Our method also shows
+                great potential for multi-resolution remote sensing scene classification.
+                Using only a simple Multilayer Perceptron (MLP)
+                classifier in the proposed function space,
+                our method achieves classification accuracy comparable
+                to deep CNNs but exhibits better adaptability
+                to image scale and resolution changes.
+            </p>
+        </td>
+    </tr>
+</table>
+
+<br>
+<hr>
+<div style="text-align: center;">
+    <h2>Architecture</h2>
+</div>
+
+<table>
+    <tr>
+        <td>
+            <div style="text-align: center;">
+                <img src="resources/model.png" width="400px">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                <br>
+                An overview of the Modulator and Synthesizer in our method.
+                The proposed RASNet decomposes scene classification into two subtasks:
+                1. Optimize each image as a data point in function space.
+                2. Create a classifier in the function space.
+                The proposed Modulator and Synthesizer constitute subtask 1,
+                as shown in the above figure.
+                The Modulator converts the unique latent code into
+                the shift of bias of each fully connected (FC) layer
+                in the Synthesizer,
+                a process known as shift modulation.
+            </p>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                In subtask 1, the Synthesizer directly maps
+                the coordinates of image pixels to the
+                corresponding pixel's RGB values.
+                In addition to the Modulator and the Synthesizer,
+                we also design a Preceptor to increase the semantic
+                expression capability. Both the pixel-level consistency
+                and the semantic-level consistency are considered in
+                the optimization. Since fitting each sample demands a
+                substantial amount of computation,
+                meta-learning is used to learn a better initialization
+                to accelerate the optimization of the latent code in RASNet.
+                The parameters of Modulator and Synthesizer are shared across data
+                to describe the common structure of images, which not only reduces the dimension of data points in the function space but also mines the differences between data points.
+            </p>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+            In subtask 2, we aim to categorize the data (latent codes) in the function space. We show that with the help of implicit modulation and meta learning, only a few basic MLP layers are sufficient to get considerable classification performance.
+            </p>
+        </td>
+    </tr>
+</table>
+
+<br>
+<hr>
+<div style="text-align: center;">
+    <h2>Quantitative Results</h2>
+</div>
+
+<table>
+    <tr>
+        <td>
+            <p>
+                <b>
+                    R1: Benchmark on GID dataset
+                </b>
+            </p>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                We compare the proposed RASNet with other deep learning-based image classification methods,
+                such as ResNet18, VGG16, and INR-based Functa on different test datasets.
+                The following Tab. shows the comparison results except for Functa as a part of ablation study.
+                We have the following observations.
+                1) When evaluated on <i>D</i><sup>te</sup><sub>28</sub>,
+                RASNet has an up-to-par performance,
+                but is inferior to VGG16.
+                This is because we only utilize a tiny MLP classifier and there is still room for accuracy improvement in data space transfer.
+                2) When the spatial resolution is held constant, Res. = 8,
+                and only the scale of the scene varies in <i>D</i><sup>te</sup><sub>56</sub> and <i>D</i><sup>te</sup><sub>84</sub>,
+                the performance of CNN-based methods drops significantly,
+                whereas RASNet still maintains the performance at a high score.
+                This suggests that RASNet can enhance the adaptability of various spatial ranges, i.e., spatial dimension agnostic.
+                3) When we downsize images from <i>D</i><sup>te</sup><sub>56</sub>
+                and <i>D</i><sup>te</sup><sub>84</sub> to 28 &times; 28 (the same size as training set <i>D</i><sup>tr</sup><sub>28</sub>),
+                and modify the spatial resolutions,
+                we observe that CNN-based classifiers perform better,
+                but still experience a considerable performance decrease.
+                RASNet still maintains performance despite a slight drop,
+                demonstrating that RASNet can expand its adaptability at multiple resolutions, i.e., resolution dimension agnostic.
+                In contrast to CNN-based approaches, the modest decline of RASNet may be due to the loss of image details at a low resolution,
+                whereas this can be easily fixed by encoding the input image at a higher resolution.
+                4) With perceptor loss, RASNet<sup>*</sup> achieves sota.
+            </p>
+            <div style="text-align: center;">
+                <img src="resources/benchmark_on_GID.png" width="500px">
+            </div>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <p>
+                <br>
+                <b>
+                    R2: Confusion Matrix on GID dataset
+                </b>
+            </p>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                The following Fig. reports the confusion matrix, where the entry in the i-th row and j-th column denotes the rate of images from the i-th class classified as the j-th class.
+            </p>
+            <div style="text-align: center;">
+                <img src="resources/confusion_mat.svg" width="800px">
+            </div>
+        </td>
+    </tr>
+
+</table>
+
+<!--<br>-->
+<!--<hr>-->
+<!--<div style="text-align: center;">-->
+<!--    <h2>Visualizations</h2>-->
+<!--</div>-->
+
+<!--<table>-->
+<!--    <tr>-->
+<!--        <td>-->
+<!--            <p style="text-align:justify; text-justify:inter-ideograph;">-->
+<!--                In the following Fig., we show the qualitative results-->
+<!--                of STT on WHU and INRIA benchmarks.-->
+<!--                The results of different methods-->
+<!--                on samples from the WHU (a-e)-->
+<!--                and INRIA (f-j) building datasets are visualized.-->
+<!--                The figure is colored differently to facilitate viewing,-->
+<!--                with <span style="color: black "><b>white</b></span> representing true positive pixels,-->
+<!--                <span style="color: black "><b>black</b></span> representing true negative pixels,-->
+<!--                <span style="color: red "><b>red</b></span> representing false positive pixels,-->
+<!--                and <span style="color: green "><b>green</b></span> representing false negative pixels.-->
+<!--            </p>-->
+<!--            <div style="text-align: center;">-->
+<!--                <img src="resources/comparison_merhods_WHU.png" width="800px">-->
+<!--                <img src="resources/comparison_merhods_INRIA.png" width="800px">-->
+<!--            </div>-->
+<!--        </td>-->
+<!--    </tr>-->
+<!--</table>-->
+
+<br>
+<br>
+
+</body>
+</html>

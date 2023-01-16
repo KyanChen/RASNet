@@ -1,0 +1,3 @@
+1 industrial land
+4 traffic land
+7 dry cropland

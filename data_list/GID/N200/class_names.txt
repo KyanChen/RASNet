@@ -1,0 +1,15 @@
+1 industrial land
+10 shrub land
+11 natural grassland
+12 artificial grassland
+13 river
+14 lake
+15 pond
+2 urban residential
+3 rural residential
+4 traffic land
+5 paddy field
+6 irrigated land
+7 dry cropland
+8 garden plot
+9 arbor woodland

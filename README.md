@@ -6,7 +6,6 @@ Official Implement of the Paper "Resolution-agnostic Remote Sensing Scene Classi
 
 [Project Page](https://kyanchen.github.io/RASNet/) $\cdot$ [Publication Page](https://ieeexplore.ieee.org/abstract/document/9980428/) $\cdot$ [PDF Download](http://levir.buaa.edu.cn/publications/RASNet.pdf)
 
-Coming soon!
 
 ```
 @ARTICLE{9980428,
@@ -21,4 +20,3 @@ Coming soon!
 ```
 
 If you have any questions, please feel free to reach me.
-

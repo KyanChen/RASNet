@@ -1,0 +1,1280 @@
+8 garden plot/garden plot_3.tif 8 garden plot
+5 paddy field/paddy field_1860.tif 5 paddy field
+7 dry cropland/dry cropland_1487.tif 7 dry cropland
+13 river/river_17.tif 13 river
+8 garden plot/garden plot_1289.tif 8 garden plot
+8 garden plot/garden plot_1717.tif 8 garden plot
+5 paddy field/paddy field_288.tif 5 paddy field
+3 rural residential/rural residential_717.tif 3 rural residential
+11 natural grassland/natural grassland_754.tif 11 natural grassland
+2 urban residential/urban residential_64.tif 2 urban residential
+1 industrial land/industrial land_453.tif 1 industrial land
+4 traffic land/traffic land_836.tif 4 traffic land
+6 irrigated land/irrigated land_1182.tif 6 irrigated land
+9 arbor woodland/arbor woodland_60.tif 9 arbor woodland
+14 lake/lake_446.tif 14 lake
+1 industrial land/industrial land_222.tif 1 industrial land
+7 dry cropland/dry cropland_1083.tif 7 dry cropland
+11 natural grassland/natural grassland_342.tif 11 natural grassland
+15 pond/pond_1650.tif 15 pond
+12 artificial grassland/artificial grassland_224.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_655.tif 12 artificial grassland
+14 lake/lake_529.tif 14 lake
+14 lake/lake_1195.tif 14 lake
+10 shrub land/shrub land_681.tif 10 shrub land
+7 dry cropland/dry cropland_1859.tif 7 dry cropland
+4 traffic land/traffic land_899.tif 4 traffic land
+9 arbor woodland/arbor woodland_252.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_967.tif 12 artificial grassland
+9 arbor woodland/arbor woodland_659.tif 9 arbor woodland
+9 arbor woodland/arbor woodland_502.tif 9 arbor woodland
+11 natural grassland/natural grassland_693.tif 11 natural grassland
+5 paddy field/paddy field_286.tif 5 paddy field
+11 natural grassland/natural grassland_299.tif 11 natural grassland
+12 artificial grassland/artificial grassland_749.tif 12 artificial grassland
+6 irrigated land/irrigated land_1886.tif 6 irrigated land
+8 garden plot/garden plot_103.tif 8 garden plot
+9 arbor woodland/arbor woodland_362.tif 9 arbor woodland
+5 paddy field/paddy field_922.tif 5 paddy field
+15 pond/pond_865.tif 15 pond
+2 urban residential/urban residential_1212.tif 2 urban residential
+11 natural grassland/natural grassland_277.tif 11 natural grassland
+4 traffic land/traffic land_1239.tif 4 traffic land
+1 industrial land/industrial land_1038.tif 1 industrial land
+15 pond/pond_314.tif 15 pond
+11 natural grassland/natural grassland_272.tif 11 natural grassland
+6 irrigated land/irrigated land_88.tif 6 irrigated land
+2 urban residential/urban residential_1729.tif 2 urban residential
+15 pond/pond_703.tif 15 pond
+7 dry cropland/dry cropland_945.tif 7 dry cropland
+10 shrub land/shrub land_1368.tif 10 shrub land
+12 artificial grassland/artificial grassland_558.tif 12 artificial grassland
+3 rural residential/rural residential_1629.tif 3 rural residential
+15 pond/pond_414.tif 15 pond
+8 garden plot/garden plot_184.tif 8 garden plot
+13 river/river_26.tif 13 river
+4 traffic land/traffic land_217.tif 4 traffic land
+9 arbor woodland/arbor woodland_654.tif 9 arbor woodland
+2 urban residential/urban residential_1720.tif 2 urban residential
+15 pond/pond_40.tif 15 pond
+6 irrigated land/irrigated land_1217.tif 6 irrigated land
+5 paddy field/paddy field_1296.tif 5 paddy field
+13 river/river_74.tif 13 river
+3 rural residential/rural residential_658.tif 3 rural residential
+12 artificial grassland/artificial grassland_5.tif 12 artificial grassland
+11 natural grassland/natural grassland_912.tif 11 natural grassland
+12 artificial grassland/artificial grassland_81.tif 12 artificial grassland
+14 lake/lake_1786.tif 14 lake
+6 irrigated land/irrigated land_1409.tif 6 irrigated land
+8 garden plot/garden plot_479.tif 8 garden plot
+15 pond/pond_322.tif 15 pond
+3 rural residential/rural residential_323.tif 3 rural residential
+8 garden plot/garden plot_6.tif 8 garden plot
+6 irrigated land/irrigated land_1610.tif 6 irrigated land
+11 natural grassland/natural grassland_1734.tif 11 natural grassland
+15 pond/pond_1837.tif 15 pond
+15 pond/pond_101.tif 15 pond
+6 irrigated land/irrigated land_155.tif 6 irrigated land
+11 natural grassland/natural grassland_1386.tif 11 natural grassland
+9 arbor woodland/arbor woodland_1176.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_463.tif 12 artificial grassland
+1 industrial land/industrial land_743.tif 1 industrial land
+13 river/river_441.tif 13 river
+12 artificial grassland/artificial grassland_990.tif 12 artificial grassland
+7 dry cropland/dry cropland_133.tif 7 dry cropland
+2 urban residential/urban residential_518.tif 2 urban residential
+6 irrigated land/irrigated land_458.tif 6 irrigated land
+4 traffic land/traffic land_206.tif 4 traffic land
+11 natural grassland/natural grassland_966.tif 11 natural grassland
+1 industrial land/industrial land_1956.tif 1 industrial land
+11 natural grassland/natural grassland_89.tif 11 natural grassland
+6 irrigated land/irrigated land_825.tif 6 irrigated land
+8 garden plot/garden plot_300.tif 8 garden plot
+5 paddy field/paddy field_400.tif 5 paddy field
+11 natural grassland/natural grassland_1387.tif 11 natural grassland
+11 natural grassland/natural grassland_117.tif 11 natural grassland
+9 arbor woodland/arbor woodland_507.tif 9 arbor woodland
+8 garden plot/garden plot_548.tif 8 garden plot
+12 artificial grassland/artificial grassland_1624.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_1398.tif 12 artificial grassland
+4 traffic land/traffic land_284.tif 4 traffic land
+5 paddy field/paddy field_734.tif 5 paddy field
+12 artificial grassland/artificial grassland_1533.tif 12 artificial grassland
+8 garden plot/garden plot_303.tif 8 garden plot
+10 shrub land/shrub land_1331.tif 10 shrub land
+10 shrub land/shrub land_473.tif 10 shrub land
+12 artificial grassland/artificial grassland_834.tif 12 artificial grassland
+11 natural grassland/natural grassland_567.tif 11 natural grassland
+9 arbor woodland/arbor woodland_1393.tif 9 arbor woodland
+2 urban residential/urban residential_1184.tif 2 urban residential
+1 industrial land/industrial land_882.tif 1 industrial land
+9 arbor woodland/arbor woodland_1003.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_1148.tif 12 artificial grassland
+5 paddy field/paddy field_1192.tif 5 paddy field
+2 urban residential/urban residential_598.tif 2 urban residential
+9 arbor woodland/arbor woodland_1058.tif 9 arbor woodland
+4 traffic land/traffic land_1223.tif 4 traffic land
+6 irrigated land/irrigated land_92.tif 6 irrigated land
+4 traffic land/traffic land_68.tif 4 traffic land
+15 pond/pond_338.tif 15 pond
+8 garden plot/garden plot_1824.tif 8 garden plot
+4 traffic land/traffic land_1042.tif 4 traffic land
+5 paddy field/paddy field_1839.tif 5 paddy field
+3 rural residential/rural residential_275.tif 3 rural residential
+9 arbor woodland/arbor woodland_473.tif 9 arbor woodland
+1 industrial land/industrial land_505.tif 1 industrial land
+9 arbor woodland/arbor woodland_564.tif 9 arbor woodland
+2 urban residential/urban residential_1968.tif 2 urban residential
+4 traffic land/traffic land_1539.tif 4 traffic land
+9 arbor woodland/arbor woodland_405.tif 9 arbor woodland
+3 rural residential/rural residential_94.tif 3 rural residential
+6 irrigated land/irrigated land_969.tif 6 irrigated land
+8 garden plot/garden plot_1415.tif 8 garden plot
+3 rural residential/rural residential_187.tif 3 rural residential
+9 arbor woodland/arbor woodland_657.tif 9 arbor woodland
+9 arbor woodland/arbor woodland_594.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_553.tif 12 artificial grassland
+8 garden plot/garden plot_1436.tif 8 garden plot
+3 rural residential/rural residential_931.tif 3 rural residential
+13 river/river_1157.tif 13 river
+4 traffic land/traffic land_803.tif 4 traffic land
+8 garden plot/garden plot_1934.tif 8 garden plot
+13 river/river_1929.tif 13 river
+14 lake/lake_293.tif 14 lake
+1 industrial land/industrial land_503.tif 1 industrial land
+4 traffic land/traffic land_1.tif 4 traffic land
+6 irrigated land/irrigated land_78.tif 6 irrigated land
+1 industrial land/industrial land_370.tif 1 industrial land
+6 irrigated land/irrigated land_415.tif 6 irrigated land
+14 lake/lake_1072.tif 14 lake
+10 shrub land/shrub land_1242.tif 10 shrub land
+11 natural grassland/natural grassland_232.tif 11 natural grassland
+12 artificial grassland/artificial grassland_965.tif 12 artificial grassland
+6 irrigated land/irrigated land_1230.tif 6 irrigated land
+6 irrigated land/irrigated land_748.tif 6 irrigated land
+4 traffic land/traffic land_964.tif 4 traffic land
+7 dry cropland/dry cropland_1712.tif 7 dry cropland
+6 irrigated land/irrigated land_976.tif 6 irrigated land
+15 pond/pond_1870.tif 15 pond
+1 industrial land/industrial land_185.tif 1 industrial land
+9 arbor woodland/arbor woodland_1725.tif 9 arbor woodland
+1 industrial land/industrial land_651.tif 1 industrial land
+4 traffic land/traffic land_871.tif 4 traffic land
+12 artificial grassland/artificial grassland_1971.tif 12 artificial grassland
+6 irrigated land/irrigated land_1708.tif 6 irrigated land
+3 rural residential/rural residential_1087.tif 3 rural residential
+5 paddy field/paddy field_67.tif 5 paddy field
+10 shrub land/shrub land_48.tif 10 shrub land
+14 lake/lake_1950.tif 14 lake
+15 pond/pond_1775.tif 15 pond
+2 urban residential/urban residential_509.tif 2 urban residential
+4 traffic land/traffic land_743.tif 4 traffic land
+1 industrial land/industrial land_1149.tif 1 industrial land
+7 dry cropland/dry cropland_1315.tif 7 dry cropland
+7 dry cropland/dry cropland_1615.tif 7 dry cropland
+15 pond/pond_693.tif 15 pond
+2 urban residential/urban residential_764.tif 2 urban residential
+4 traffic land/traffic land_319.tif 4 traffic land
+7 dry cropland/dry cropland_654.tif 7 dry cropland
+4 traffic land/traffic land_368.tif 4 traffic land
+11 natural grassland/natural grassland_782.tif 11 natural grassland
+10 shrub land/shrub land_767.tif 10 shrub land
+6 irrigated land/irrigated land_1670.tif 6 irrigated land
+8 garden plot/garden plot_1300.tif 8 garden plot
+14 lake/lake_578.tif 14 lake
+12 artificial grassland/artificial grassland_1761.tif 12 artificial grassland
+9 arbor woodland/arbor woodland_1531.tif 9 arbor woodland
+15 pond/pond_691.tif 15 pond
+8 garden plot/garden plot_683.tif 8 garden plot
+11 natural grassland/natural grassland_114.tif 11 natural grassland
+8 garden plot/garden plot_1848.tif 8 garden plot
+3 rural residential/rural residential_1628.tif 3 rural residential
+2 urban residential/urban residential_1290.tif 2 urban residential
+8 garden plot/garden plot_624.tif 8 garden plot
+15 pond/pond_1230.tif 15 pond
+8 garden plot/garden plot_108.tif 8 garden plot
+12 artificial grassland/artificial grassland_1983.tif 12 artificial grassland
+4 traffic land/traffic land_398.tif 4 traffic land
+9 arbor woodland/arbor woodland_878.tif 9 arbor woodland
+15 pond/pond_651.tif 15 pond
+13 river/river_1499.tif 13 river
+11 natural grassland/natural grassland_1729.tif 11 natural grassland
+9 arbor woodland/arbor woodland_313.tif 9 arbor woodland
+2 urban residential/urban residential_178.tif 2 urban residential
+11 natural grassland/natural grassland_1983.tif 11 natural grassland
+13 river/river_502.tif 13 river
+2 urban residential/urban residential_577.tif 2 urban residential
+9 arbor woodland/arbor woodland_232.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_1359.tif 12 artificial grassland
+15 pond/pond_881.tif 15 pond
+12 artificial grassland/artificial grassland_147.tif 12 artificial grassland
+8 garden plot/garden plot_1673.tif 8 garden plot
+6 irrigated land/irrigated land_225.tif 6 irrigated land
+6 irrigated land/irrigated land_1004.tif 6 irrigated land
+12 artificial grassland/artificial grassland_403.tif 12 artificial grassland
+7 dry cropland/dry cropland_30.tif 7 dry cropland
+6 irrigated land/irrigated land_816.tif 6 irrigated land
+3 rural residential/rural residential_1926.tif 3 rural residential
+13 river/river_707.tif 13 river
+11 natural grassland/natural grassland_593.tif 11 natural grassland
+1 industrial land/industrial land_1161.tif 1 industrial land
+13 river/river_873.tif 13 river
+3 rural residential/rural residential_54.tif 3 rural residential
+2 urban residential/urban residential_506.tif 2 urban residential
+6 irrigated land/irrigated land_1402.tif 6 irrigated land
+10 shrub land/shrub land_1941.tif 10 shrub land
+1 industrial land/industrial land_1507.tif 1 industrial land
+4 traffic land/traffic land_163.tif 4 traffic land
+13 river/river_828.tif 13 river
+4 traffic land/traffic land_517.tif 4 traffic land
+3 rural residential/rural residential_803.tif 3 rural residential
+1 industrial land/industrial land_1002.tif 1 industrial land
+3 rural residential/rural residential_556.tif 3 rural residential
+3 rural residential/rural residential_169.tif 3 rural residential
+12 artificial grassland/artificial grassland_997.tif 12 artificial grassland
+2 urban residential/urban residential_268.tif 2 urban residential
+3 rural residential/rural residential_1982.tif 3 rural residential
+8 garden plot/garden plot_916.tif 8 garden plot
+15 pond/pond_306.tif 15 pond
+3 rural residential/rural residential_1891.tif 3 rural residential
+12 artificial grassland/artificial grassland_799.tif 12 artificial grassland
+13 river/river_1542.tif 13 river
+13 river/river_1620.tif 13 river
+4 traffic land/traffic land_761.tif 4 traffic land
+1 industrial land/industrial land_963.tif 1 industrial land
+14 lake/lake_1821.tif 14 lake
+3 rural residential/rural residential_349.tif 3 rural residential
+5 paddy field/paddy field_1735.tif 5 paddy field
+7 dry cropland/dry cropland_574.tif 7 dry cropland
+4 traffic land/traffic land_1298.tif 4 traffic land
+3 rural residential/rural residential_1064.tif 3 rural residential
+3 rural residential/rural residential_255.tif 3 rural residential
+11 natural grassland/natural grassland_755.tif 11 natural grassland
+10 shrub land/shrub land_1497.tif 10 shrub land
+15 pond/pond_443.tif 15 pond
+6 irrigated land/irrigated land_593.tif 6 irrigated land
+8 garden plot/garden plot_1869.tif 8 garden plot
+5 paddy field/paddy field_256.tif 5 paddy field
+2 urban residential/urban residential_632.tif 2 urban residential
+4 traffic land/traffic land_162.tif 4 traffic land
+3 rural residential/rural residential_1546.tif 3 rural residential
+5 paddy field/paddy field_796.tif 5 paddy field
+13 river/river_6.tif 13 river
+4 traffic land/traffic land_347.tif 4 traffic land
+15 pond/pond_297.tif 15 pond
+14 lake/lake_1376.tif 14 lake
+4 traffic land/traffic land_225.tif 4 traffic land
+10 shrub land/shrub land_857.tif 10 shrub land
+8 garden plot/garden plot_691.tif 8 garden plot
+5 paddy field/paddy field_938.tif 5 paddy field
+9 arbor woodland/arbor woodland_1746.tif 9 arbor woodland
+7 dry cropland/dry cropland_438.tif 7 dry cropland
+14 lake/lake_503.tif 14 lake
+11 natural grassland/natural grassland_961.tif 11 natural grassland
+9 arbor woodland/arbor woodland_1024.tif 9 arbor woodland
+9 arbor woodland/arbor woodland_154.tif 9 arbor woodland
+1 industrial land/industrial land_673.tif 1 industrial land
+13 river/river_283.tif 13 river
+5 paddy field/paddy field_195.tif 5 paddy field
+13 river/river_665.tif 13 river
+11 natural grassland/natural grassland_1732.tif 11 natural grassland
+14 lake/lake_199.tif 14 lake
+3 rural residential/rural residential_719.tif 3 rural residential
+12 artificial grassland/artificial grassland_312.tif 12 artificial grassland
+15 pond/pond_580.tif 15 pond
+8 garden plot/garden plot_936.tif 8 garden plot
+11 natural grassland/natural grassland_1769.tif 11 natural grassland
+3 rural residential/rural residential_954.tif 3 rural residential
+12 artificial grassland/artificial grassland_916.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_1169.tif 12 artificial grassland
+5 paddy field/paddy field_690.tif 5 paddy field
+9 arbor woodland/arbor woodland_110.tif 9 arbor woodland
+8 garden plot/garden plot_1239.tif 8 garden plot
+9 arbor woodland/arbor woodland_924.tif 9 arbor woodland
+15 pond/pond_38.tif 15 pond
+3 rural residential/rural residential_977.tif 3 rural residential
+14 lake/lake_1086.tif 14 lake
+11 natural grassland/natural grassland_1369.tif 11 natural grassland
+7 dry cropland/dry cropland_184.tif 7 dry cropland
+5 paddy field/paddy field_850.tif 5 paddy field
+1 industrial land/industrial land_283.tif 1 industrial land
+5 paddy field/paddy field_127.tif 5 paddy field
+12 artificial grassland/artificial grassland_1932.tif 12 artificial grassland
+6 irrigated land/irrigated land_58.tif 6 irrigated land
+8 garden plot/garden plot_703.tif 8 garden plot
+1 industrial land/industrial land_418.tif 1 industrial land
+15 pond/pond_797.tif 15 pond
+15 pond/pond_716.tif 15 pond
+12 artificial grassland/artificial grassland_866.tif 12 artificial grassland
+11 natural grassland/natural grassland_664.tif 11 natural grassland
+14 lake/lake_140.tif 14 lake
+11 natural grassland/natural grassland_1784.tif 11 natural grassland
+7 dry cropland/dry cropland_846.tif 7 dry cropland
+4 traffic land/traffic land_866.tif 4 traffic land
+13 river/river_1329.tif 13 river
+15 pond/pond_576.tif 15 pond
+10 shrub land/shrub land_634.tif 10 shrub land
+11 natural grassland/natural grassland_93.tif 11 natural grassland
+5 paddy field/paddy field_226.tif 5 paddy field
+2 urban residential/urban residential_54.tif 2 urban residential
+13 river/river_1204.tif 13 river
+9 arbor woodland/arbor woodland_613.tif 9 arbor woodland
+8 garden plot/garden plot_1392.tif 8 garden plot
+9 arbor woodland/arbor woodland_180.tif 9 arbor woodland
+3 rural residential/rural residential_191.tif 3 rural residential
+12 artificial grassland/artificial grassland_842.tif 12 artificial grassland
+4 traffic land/traffic land_205.tif 4 traffic land
+4 traffic land/traffic land_255.tif 4 traffic land
+7 dry cropland/dry cropland_1350.tif 7 dry cropland
+8 garden plot/garden plot_1389.tif 8 garden plot
+7 dry cropland/dry cropland_483.tif 7 dry cropland
+3 rural residential/rural residential_598.tif 3 rural residential
+8 garden plot/garden plot_1834.tif 8 garden plot
+14 lake/lake_704.tif 14 lake
+7 dry cropland/dry cropland_1338.tif 7 dry cropland
+15 pond/pond_206.tif 15 pond
+14 lake/lake_198.tif 14 lake
+2 urban residential/urban residential_591.tif 2 urban residential
+15 pond/pond_218.tif 15 pond
+14 lake/lake_333.tif 14 lake
+8 garden plot/garden plot_21.tif 8 garden plot
+2 urban residential/urban residential_924.tif 2 urban residential
+11 natural grassland/natural grassland_659.tif 11 natural grassland
+10 shrub land/shrub land_814.tif 10 shrub land
+4 traffic land/traffic land_63.tif 4 traffic land
+1 industrial land/industrial land_339.tif 1 industrial land
+10 shrub land/shrub land_1581.tif 10 shrub land
+11 natural grassland/natural grassland_461.tif 11 natural grassland
+6 irrigated land/irrigated land_15.tif 6 irrigated land
+13 river/river_829.tif 13 river
+9 arbor woodland/arbor woodland_1174.tif 9 arbor woodland
+15 pond/pond_324.tif 15 pond
+13 river/river_753.tif 13 river
+1 industrial land/industrial land_926.tif 1 industrial land
+1 industrial land/industrial land_1280.tif 1 industrial land
+4 traffic land/traffic land_366.tif 4 traffic land
+7 dry cropland/dry cropland_1246.tif 7 dry cropland
+14 lake/lake_114.tif 14 lake
+9 arbor woodland/arbor woodland_848.tif 9 arbor woodland
+3 rural residential/rural residential_583.tif 3 rural residential
+1 industrial land/industrial land_1359.tif 1 industrial land
+7 dry cropland/dry cropland_1900.tif 7 dry cropland
+5 paddy field/paddy field_418.tif 5 paddy field
+10 shrub land/shrub land_895.tif 10 shrub land
+3 rural residential/rural residential_405.tif 3 rural residential
+1 industrial land/industrial land_1960.tif 1 industrial land
+5 paddy field/paddy field_1431.tif 5 paddy field
+15 pond/pond_1965.tif 15 pond
+12 artificial grassland/artificial grassland_319.tif 12 artificial grassland
+14 lake/lake_1022.tif 14 lake
+10 shrub land/shrub land_298.tif 10 shrub land
+10 shrub land/shrub land_1947.tif 10 shrub land
+3 rural residential/rural residential_189.tif 3 rural residential
+9 arbor woodland/arbor woodland_1800.tif 9 arbor woodland
+7 dry cropland/dry cropland_425.tif 7 dry cropland
+15 pond/pond_412.tif 15 pond
+14 lake/lake_1448.tif 14 lake
+1 industrial land/industrial land_1085.tif 1 industrial land
+4 traffic land/traffic land_1688.tif 4 traffic land
+9 arbor woodland/arbor woodland_1779.tif 9 arbor woodland
+4 traffic land/traffic land_221.tif 4 traffic land
+2 urban residential/urban residential_1646.tif 2 urban residential
+14 lake/lake_1027.tif 14 lake
+5 paddy field/paddy field_1993.tif 5 paddy field
+12 artificial grassland/artificial grassland_972.tif 12 artificial grassland
+10 shrub land/shrub land_1820.tif 10 shrub land
+7 dry cropland/dry cropland_938.tif 7 dry cropland
+13 river/river_1241.tif 13 river
+14 lake/lake_1044.tif 14 lake
+12 artificial grassland/artificial grassland_840.tif 12 artificial grassland
+15 pond/pond_399.tif 15 pond
+14 lake/lake_584.tif 14 lake
+13 river/river_478.tif 13 river
+2 urban residential/urban residential_225.tif 2 urban residential
+6 irrigated land/irrigated land_675.tif 6 irrigated land
+5 paddy field/paddy field_1201.tif 5 paddy field
+6 irrigated land/irrigated land_314.tif 6 irrigated land
+4 traffic land/traffic land_1905.tif 4 traffic land
+5 paddy field/paddy field_735.tif 5 paddy field
+11 natural grassland/natural grassland_1616.tif 11 natural grassland
+2 urban residential/urban residential_1106.tif 2 urban residential
+10 shrub land/shrub land_118.tif 10 shrub land
+14 lake/lake_482.tif 14 lake
+4 traffic land/traffic land_872.tif 4 traffic land
+1 industrial land/industrial land_1648.tif 1 industrial land
+5 paddy field/paddy field_268.tif 5 paddy field
+2 urban residential/urban residential_600.tif 2 urban residential
+11 natural grassland/natural grassland_1934.tif 11 natural grassland
+6 irrigated land/irrigated land_446.tif 6 irrigated land
+7 dry cropland/dry cropland_875.tif 7 dry cropland
+6 irrigated land/irrigated land_441.tif 6 irrigated land
+14 lake/lake_166.tif 14 lake
+2 urban residential/urban residential_906.tif 2 urban residential
+1 industrial land/industrial land_214.tif 1 industrial land
+15 pond/pond_1886.tif 15 pond
+8 garden plot/garden plot_310.tif 8 garden plot
+14 lake/lake_913.tif 14 lake
+3 rural residential/rural residential_274.tif 3 rural residential
+7 dry cropland/dry cropland_411.tif 7 dry cropland
+11 natural grassland/natural grassland_1766.tif 11 natural grassland
+9 arbor woodland/arbor woodland_1674.tif 9 arbor woodland
+3 rural residential/rural residential_761.tif 3 rural residential
+4 traffic land/traffic land_412.tif 4 traffic land
+6 irrigated land/irrigated land_1156.tif 6 irrigated land
+8 garden plot/garden plot_9.tif 8 garden plot
+12 artificial grassland/artificial grassland_1899.tif 12 artificial grassland
+10 shrub land/shrub land_522.tif 10 shrub land
+15 pond/pond_384.tif 15 pond
+14 lake/lake_693.tif 14 lake
+7 dry cropland/dry cropland_1883.tif 7 dry cropland
+3 rural residential/rural residential_517.tif 3 rural residential
+5 paddy field/paddy field_736.tif 5 paddy field
+6 irrigated land/irrigated land_1178.tif 6 irrigated land
+13 river/river_99.tif 13 river
+3 rural residential/rural residential_419.tif 3 rural residential
+3 rural residential/rural residential_181.tif 3 rural residential
+9 arbor woodland/arbor woodland_963.tif 9 arbor woodland
+1 industrial land/industrial land_151.tif 1 industrial land
+12 artificial grassland/artificial grassland_630.tif 12 artificial grassland
+2 urban residential/urban residential_163.tif 2 urban residential
+14 lake/lake_1970.tif 14 lake
+15 pond/pond_1949.tif 15 pond
+4 traffic land/traffic land_265.tif 4 traffic land
+1 industrial land/industrial land_627.tif 1 industrial land
+4 traffic land/traffic land_907.tif 4 traffic land
+4 traffic land/traffic land_383.tif 4 traffic land
+2 urban residential/urban residential_1638.tif 2 urban residential
+3 rural residential/rural residential_123.tif 3 rural residential
+5 paddy field/paddy field_138.tif 5 paddy field
+7 dry cropland/dry cropland_771.tif 7 dry cropland
+13 river/river_1834.tif 13 river
+14 lake/lake_761.tif 14 lake
+8 garden plot/garden plot_1275.tif 8 garden plot
+3 rural residential/rural residential_466.tif 3 rural residential
+2 urban residential/urban residential_1710.tif 2 urban residential
+12 artificial grassland/artificial grassland_548.tif 12 artificial grassland
+5 paddy field/paddy field_228.tif 5 paddy field
+4 traffic land/traffic land_612.tif 4 traffic land
+8 garden plot/garden plot_174.tif 8 garden plot
+4 traffic land/traffic land_72.tif 4 traffic land
+13 river/river_163.tif 13 river
+9 arbor woodland/arbor woodland_161.tif 9 arbor woodland
+1 industrial land/industrial land_1751.tif 1 industrial land
+13 river/river_1871.tif 13 river
+14 lake/lake_1488.tif 14 lake
+2 urban residential/urban residential_236.tif 2 urban residential
+13 river/river_213.tif 13 river
+4 traffic land/traffic land_231.tif 4 traffic land
+8 garden plot/garden plot_316.tif 8 garden plot
+15 pond/pond_673.tif 15 pond
+13 river/river_1394.tif 13 river
+12 artificial grassland/artificial grassland_350.tif 12 artificial grassland
+1 industrial land/industrial land_1652.tif 1 industrial land
+13 river/river_663.tif 13 river
+4 traffic land/traffic land_370.tif 4 traffic land
+9 arbor woodland/arbor woodland_143.tif 9 arbor woodland
+2 urban residential/urban residential_1893.tif 2 urban residential
+2 urban residential/urban residential_1331.tif 2 urban residential
+5 paddy field/paddy field_672.tif 5 paddy field
+1 industrial land/industrial land_670.tif 1 industrial land
+13 river/river_1715.tif 13 river
+14 lake/lake_393.tif 14 lake
+2 urban residential/urban residential_386.tif 2 urban residential
+11 natural grassland/natural grassland_470.tif 11 natural grassland
+14 lake/lake_1765.tif 14 lake
+9 arbor woodland/arbor woodland_496.tif 9 arbor woodland
+5 paddy field/paddy field_299.tif 5 paddy field
+5 paddy field/paddy field_311.tif 5 paddy field
+11 natural grassland/natural grassland_559.tif 11 natural grassland
+1 industrial land/industrial land_765.tif 1 industrial land
+15 pond/pond_1734.tif 15 pond
+6 irrigated land/irrigated land_1330.tif 6 irrigated land
+3 rural residential/rural residential_1756.tif 3 rural residential
+5 paddy field/paddy field_146.tif 5 paddy field
+4 traffic land/traffic land_555.tif 4 traffic land
+12 artificial grassland/artificial grassland_779.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_1937.tif 12 artificial grassland
+14 lake/lake_1199.tif 14 lake
+10 shrub land/shrub land_73.tif 10 shrub land
+11 natural grassland/natural grassland_939.tif 11 natural grassland
+13 river/river_542.tif 13 river
+7 dry cropland/dry cropland_1948.tif 7 dry cropland
+8 garden plot/garden plot_525.tif 8 garden plot
+9 arbor woodland/arbor woodland_590.tif 9 arbor woodland
+11 natural grassland/natural grassland_388.tif 11 natural grassland
+10 shrub land/shrub land_116.tif 10 shrub land
+14 lake/lake_570.tif 14 lake
+1 industrial land/industrial land_729.tif 1 industrial land
+4 traffic land/traffic land_417.tif 4 traffic land
+1 industrial land/industrial land_1718.tif 1 industrial land
+9 arbor woodland/arbor woodland_1035.tif 9 arbor woodland
+14 lake/lake_1812.tif 14 lake
+5 paddy field/paddy field_144.tif 5 paddy field
+10 shrub land/shrub land_996.tif 10 shrub land
+14 lake/lake_746.tif 14 lake
+3 rural residential/rural residential_837.tif 3 rural residential
+5 paddy field/paddy field_936.tif 5 paddy field
+13 river/river_221.tif 13 river
+12 artificial grassland/artificial grassland_512.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_669.tif 12 artificial grassland
+4 traffic land/traffic land_330.tif 4 traffic land
+6 irrigated land/irrigated land_426.tif 6 irrigated land
+7 dry cropland/dry cropland_1208.tif 7 dry cropland
+7 dry cropland/dry cropland_1008.tif 7 dry cropland
+2 urban residential/urban residential_1286.tif 2 urban residential
+1 industrial land/industrial land_653.tif 1 industrial land
+5 paddy field/paddy field_1651.tif 5 paddy field
+4 traffic land/traffic land_408.tif 4 traffic land
+7 dry cropland/dry cropland_713.tif 7 dry cropland
+6 irrigated land/irrigated land_757.tif 6 irrigated land
+8 garden plot/garden plot_1629.tif 8 garden plot
+9 arbor woodland/arbor woodland_1837.tif 9 arbor woodland
+15 pond/pond_446.tif 15 pond
+13 river/river_362.tif 13 river
+9 arbor woodland/arbor woodland_1718.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_1777.tif 12 artificial grassland
+7 dry cropland/dry cropland_478.tif 7 dry cropland
+10 shrub land/shrub land_1889.tif 10 shrub land
+6 irrigated land/irrigated land_1579.tif 6 irrigated land
+8 garden plot/garden plot_708.tif 8 garden plot
+14 lake/lake_483.tif 14 lake
+10 shrub land/shrub land_719.tif 10 shrub land
+12 artificial grassland/artificial grassland_1016.tif 12 artificial grassland
+13 river/river_263.tif 13 river
+7 dry cropland/dry cropland_178.tif 7 dry cropland
+11 natural grassland/natural grassland_305.tif 11 natural grassland
+13 river/river_504.tif 13 river
+3 rural residential/rural residential_340.tif 3 rural residential
+3 rural residential/rural residential_736.tif 3 rural residential
+8 garden plot/garden plot_1750.tif 8 garden plot
+11 natural grassland/natural grassland_1644.tif 11 natural grassland
+7 dry cropland/dry cropland_291.tif 7 dry cropland
+12 artificial grassland/artificial grassland_724.tif 12 artificial grassland
+11 natural grassland/natural grassland_211.tif 11 natural grassland
+10 shrub land/shrub land_1714.tif 10 shrub land
+8 garden plot/garden plot_1549.tif 8 garden plot
+13 river/river_943.tif 13 river
+8 garden plot/garden plot_1063.tif 8 garden plot
+1 industrial land/industrial land_579.tif 1 industrial land
+15 pond/pond_448.tif 15 pond
+4 traffic land/traffic land_1660.tif 4 traffic land
+11 natural grassland/natural grassland_933.tif 11 natural grassland
+15 pond/pond_309.tif 15 pond
+14 lake/lake_763.tif 14 lake
+1 industrial land/industrial land_186.tif 1 industrial land
+5 paddy field/paddy field_923.tif 5 paddy field
+5 paddy field/paddy field_794.tif 5 paddy field
+11 natural grassland/natural grassland_995.tif 11 natural grassland
+7 dry cropland/dry cropland_1973.tif 7 dry cropland
+2 urban residential/urban residential_897.tif 2 urban residential
+3 rural residential/rural residential_638.tif 3 rural residential
+1 industrial land/industrial land_1867.tif 1 industrial land
+3 rural residential/rural residential_106.tif 3 rural residential
+3 rural residential/rural residential_192.tif 3 rural residential
+9 arbor woodland/arbor woodland_540.tif 9 arbor woodland
+4 traffic land/traffic land_92.tif 4 traffic land
+11 natural grassland/natural grassland_817.tif 11 natural grassland
+5 paddy field/paddy field_703.tif 5 paddy field
+11 natural grassland/natural grassland_1972.tif 11 natural grassland
+7 dry cropland/dry cropland_486.tif 7 dry cropland
+1 industrial land/industrial land_837.tif 1 industrial land
+6 irrigated land/irrigated land_451.tif 6 irrigated land
+15 pond/pond_800.tif 15 pond
+13 river/river_1718.tif 13 river
+12 artificial grassland/artificial grassland_1037.tif 12 artificial grassland
+6 irrigated land/irrigated land_1565.tif 6 irrigated land
+10 shrub land/shrub land_384.tif 10 shrub land
+1 industrial land/industrial land_1880.tif 1 industrial land
+5 paddy field/paddy field_188.tif 5 paddy field
+8 garden plot/garden plot_66.tif 8 garden plot
+10 shrub land/shrub land_1805.tif 10 shrub land
+9 arbor woodland/arbor woodland_572.tif 9 arbor woodland
+15 pond/pond_425.tif 15 pond
+12 artificial grassland/artificial grassland_910.tif 12 artificial grassland
+1 industrial land/industrial land_748.tif 1 industrial land
+12 artificial grassland/artificial grassland_566.tif 12 artificial grassland
+11 natural grassland/natural grassland_407.tif 11 natural grassland
+10 shrub land/shrub land_140.tif 10 shrub land
+15 pond/pond_657.tif 15 pond
+2 urban residential/urban residential_1373.tif 2 urban residential
+2 urban residential/urban residential_144.tif 2 urban residential
+7 dry cropland/dry cropland_16.tif 7 dry cropland
+11 natural grassland/natural grassland_345.tif 11 natural grassland
+15 pond/pond_1523.tif 15 pond
+12 artificial grassland/artificial grassland_1837.tif 12 artificial grassland
+9 arbor woodland/arbor woodland_1885.tif 9 arbor woodland
+3 rural residential/rural residential_75.tif 3 rural residential
+9 arbor woodland/arbor woodland_363.tif 9 arbor woodland
+8 garden plot/garden plot_639.tif 8 garden plot
+6 irrigated land/irrigated land_1707.tif 6 irrigated land
+2 urban residential/urban residential_1815.tif 2 urban residential
+15 pond/pond_226.tif 15 pond
+13 river/river_280.tif 13 river
+3 rural residential/rural residential_1587.tif 3 rural residential
+4 traffic land/traffic land_1070.tif 4 traffic land
+11 natural grassland/natural grassland_256.tif 11 natural grassland
+12 artificial grassland/artificial grassland_787.tif 12 artificial grassland
+15 pond/pond_637.tif 15 pond
+12 artificial grassland/artificial grassland_684.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_1702.tif 12 artificial grassland
+1 industrial land/industrial land_629.tif 1 industrial land
+8 garden plot/garden plot_1651.tif 8 garden plot
+5 paddy field/paddy field_254.tif 5 paddy field
+9 arbor woodland/arbor woodland_1100.tif 9 arbor woodland
+4 traffic land/traffic land_700.tif 4 traffic land
+12 artificial grassland/artificial grassland_629.tif 12 artificial grassland
+8 garden plot/garden plot_963.tif 8 garden plot
+3 rural residential/rural residential_448.tif 3 rural residential
+6 irrigated land/irrigated land_871.tif 6 irrigated land
+15 pond/pond_150.tif 15 pond
+12 artificial grassland/artificial grassland_1846.tif 12 artificial grassland
+15 pond/pond_1234.tif 15 pond
+1 industrial land/industrial land_26.tif 1 industrial land
+14 lake/lake_858.tif 14 lake
+1 industrial land/industrial land_332.tif 1 industrial land
+6 irrigated land/irrigated land_889.tif 6 irrigated land
+2 urban residential/urban residential_1181.tif 2 urban residential
+12 artificial grassland/artificial grassland_227.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_730.tif 12 artificial grassland
+2 urban residential/urban residential_918.tif 2 urban residential
+12 artificial grassland/artificial grassland_924.tif 12 artificial grassland
+4 traffic land/traffic land_546.tif 4 traffic land
+7 dry cropland/dry cropland_309.tif 7 dry cropland
+10 shrub land/shrub land_452.tif 10 shrub land
+8 garden plot/garden plot_551.tif 8 garden plot
+10 shrub land/shrub land_737.tif 10 shrub land
+8 garden plot/garden plot_1002.tif 8 garden plot
+10 shrub land/shrub land_1071.tif 10 shrub land
+7 dry cropland/dry cropland_569.tif 7 dry cropland
+14 lake/lake_1398.tif 14 lake
+13 river/river_1717.tif 13 river
+2 urban residential/urban residential_495.tif 2 urban residential
+2 urban residential/urban residential_1749.tif 2 urban residential
+2 urban residential/urban residential_840.tif 2 urban residential
+15 pond/pond_217.tif 15 pond
+9 arbor woodland/arbor woodland_1984.tif 9 arbor woodland
+13 river/river_1735.tif 13 river
+2 urban residential/urban residential_754.tif 2 urban residential
+11 natural grassland/natural grassland_989.tif 11 natural grassland
+7 dry cropland/dry cropland_585.tif 7 dry cropland
+1 industrial land/industrial land_755.tif 1 industrial land
+8 garden plot/garden plot_538.tif 8 garden plot
+6 irrigated land/irrigated land_699.tif 6 irrigated land
+5 paddy field/paddy field_63.tif 5 paddy field
+7 dry cropland/dry cropland_566.tif 7 dry cropland
+15 pond/pond_1323.tif 15 pond
+15 pond/pond_635.tif 15 pond
+7 dry cropland/dry cropland_57.tif 7 dry cropland
+8 garden plot/garden plot_793.tif 8 garden plot
+10 shrub land/shrub land_660.tif 10 shrub land
+1 industrial land/industrial land_1030.tif 1 industrial land
+4 traffic land/traffic land_905.tif 4 traffic land
+1 industrial land/industrial land_415.tif 1 industrial land
+15 pond/pond_782.tif 15 pond
+14 lake/lake_1409.tif 14 lake
+10 shrub land/shrub land_1262.tif 10 shrub land
+1 industrial land/industrial land_827.tif 1 industrial land
+7 dry cropland/dry cropland_213.tif 7 dry cropland
+12 artificial grassland/artificial grassland_352.tif 12 artificial grassland
+8 garden plot/garden plot_1071.tif 8 garden plot
+8 garden plot/garden plot_1395.tif 8 garden plot
+11 natural grassland/natural grassland_318.tif 11 natural grassland
+1 industrial land/industrial land_556.tif 1 industrial land
+11 natural grassland/natural grassland_411.tif 11 natural grassland
+8 garden plot/garden plot_18.tif 8 garden plot
+12 artificial grassland/artificial grassland_388.tif 12 artificial grassland
+7 dry cropland/dry cropland_11.tif 7 dry cropland
+10 shrub land/shrub land_877.tif 10 shrub land
+13 river/river_1530.tif 13 river
+7 dry cropland/dry cropland_1464.tif 7 dry cropland
+3 rural residential/rural residential_1036.tif 3 rural residential
+15 pond/pond_1105.tif 15 pond
+2 urban residential/urban residential_710.tif 2 urban residential
+10 shrub land/shrub land_960.tif 10 shrub land
+10 shrub land/shrub land_665.tif 10 shrub land
+4 traffic land/traffic land_880.tif 4 traffic land
+9 arbor woodland/arbor woodland_890.tif 9 arbor woodland
+15 pond/pond_547.tif 15 pond
+2 urban residential/urban residential_79.tif 2 urban residential
+6 irrigated land/irrigated land_111.tif 6 irrigated land
+9 arbor woodland/arbor woodland_1527.tif 9 arbor woodland
+3 rural residential/rural residential_1781.tif 3 rural residential
+13 river/river_222.tif 13 river
+13 river/river_1508.tif 13 river
+15 pond/pond_1546.tif 15 pond
+10 shrub land/shrub land_867.tif 10 shrub land
+9 arbor woodland/arbor woodland_1727.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_351.tif 12 artificial grassland
+4 traffic land/traffic land_724.tif 4 traffic land
+2 urban residential/urban residential_73.tif 2 urban residential
+15 pond/pond_1816.tif 15 pond
+7 dry cropland/dry cropland_813.tif 7 dry cropland
+8 garden plot/garden plot_208.tif 8 garden plot
+1 industrial land/industrial land_790.tif 1 industrial land
+3 rural residential/rural residential_1892.tif 3 rural residential
+5 paddy field/paddy field_1812.tif 5 paddy field
+3 rural residential/rural residential_762.tif 3 rural residential
+14 lake/lake_848.tif 14 lake
+13 river/river_754.tif 13 river
+1 industrial land/industrial land_890.tif 1 industrial land
+14 lake/lake_317.tif 14 lake
+8 garden plot/garden plot_503.tif 8 garden plot
+12 artificial grassland/artificial grassland_1412.tif 12 artificial grassland
+13 river/river_790.tif 13 river
+8 garden plot/garden plot_1225.tif 8 garden plot
+12 artificial grassland/artificial grassland_240.tif 12 artificial grassland
+8 garden plot/garden plot_1739.tif 8 garden plot
+4 traffic land/traffic land_644.tif 4 traffic land
+11 natural grassland/natural grassland_1603.tif 11 natural grassland
+2 urban residential/urban residential_1222.tif 2 urban residential
+13 river/river_1766.tif 13 river
+10 shrub land/shrub land_904.tif 10 shrub land
+14 lake/lake_1874.tif 14 lake
+11 natural grassland/natural grassland_1496.tif 11 natural grassland
+4 traffic land/traffic land_502.tif 4 traffic land
+6 irrigated land/irrigated land_160.tif 6 irrigated land
+13 river/river_440.tif 13 river
+13 river/river_1481.tif 13 river
+9 arbor woodland/arbor woodland_655.tif 9 arbor woodland
+8 garden plot/garden plot_999.tif 8 garden plot
+7 dry cropland/dry cropland_1891.tif 7 dry cropland
+6 irrigated land/irrigated land_1961.tif 6 irrigated land
+8 garden plot/garden plot_304.tif 8 garden plot
+12 artificial grassland/artificial grassland_74.tif 12 artificial grassland
+3 rural residential/rural residential_806.tif 3 rural residential
+7 dry cropland/dry cropland_719.tif 7 dry cropland
+2 urban residential/urban residential_637.tif 2 urban residential
+3 rural residential/rural residential_537.tif 3 rural residential
+12 artificial grassland/artificial grassland_159.tif 12 artificial grassland
+15 pond/pond_600.tif 15 pond
+14 lake/lake_548.tif 14 lake
+4 traffic land/traffic land_30.tif 4 traffic land
+9 arbor woodland/arbor woodland_1782.tif 9 arbor woodland
+15 pond/pond_329.tif 15 pond
+14 lake/lake_791.tif 14 lake
+9 arbor woodland/arbor woodland_74.tif 9 arbor woodland
+7 dry cropland/dry cropland_1360.tif 7 dry cropland
+11 natural grassland/natural grassland_545.tif 11 natural grassland
+10 shrub land/shrub land_226.tif 10 shrub land
+6 irrigated land/irrigated land_895.tif 6 irrigated land
+12 artificial grassland/artificial grassland_466.tif 12 artificial grassland
+4 traffic land/traffic land_18.tif 4 traffic land
+15 pond/pond_323.tif 15 pond
+9 arbor woodland/arbor woodland_417.tif 9 arbor woodland
+6 irrigated land/irrigated land_793.tif 6 irrigated land
+5 paddy field/paddy field_1790.tif 5 paddy field
+4 traffic land/traffic land_252.tif 4 traffic land
+5 paddy field/paddy field_613.tif 5 paddy field
+4 traffic land/traffic land_620.tif 4 traffic land
+15 pond/pond_212.tif 15 pond
+7 dry cropland/dry cropland_776.tif 7 dry cropland
+7 dry cropland/dry cropland_286.tif 7 dry cropland
+2 urban residential/urban residential_776.tif 2 urban residential
+8 garden plot/garden plot_939.tif 8 garden plot
+4 traffic land/traffic land_671.tif 4 traffic land
+1 industrial land/industrial land_422.tif 1 industrial land
+2 urban residential/urban residential_1508.tif 2 urban residential
+13 river/river_1397.tif 13 river
+14 lake/lake_1689.tif 14 lake
+8 garden plot/garden plot_951.tif 8 garden plot
+10 shrub land/shrub land_727.tif 10 shrub land
+4 traffic land/traffic land_75.tif 4 traffic land
+14 lake/lake_800.tif 14 lake
+9 arbor woodland/arbor woodland_480.tif 9 arbor woodland
+5 paddy field/paddy field_378.tif 5 paddy field
+15 pond/pond_1801.tif 15 pond
+6 irrigated land/irrigated land_600.tif 6 irrigated land
+15 pond/pond_428.tif 15 pond
+4 traffic land/traffic land_537.tif 4 traffic land
+7 dry cropland/dry cropland_231.tif 7 dry cropland
+15 pond/pond_1785.tif 15 pond
+12 artificial grassland/artificial grassland_345.tif 12 artificial grassland
+11 natural grassland/natural grassland_1124.tif 11 natural grassland
+1 industrial land/industrial land_400.tif 1 industrial land
+3 rural residential/rural residential_412.tif 3 rural residential
+3 rural residential/rural residential_812.tif 3 rural residential
+11 natural grassland/natural grassland_1373.tif 11 natural grassland
+13 river/river_715.tif 13 river
+8 garden plot/garden plot_17.tif 8 garden plot
+14 lake/lake_131.tif 14 lake
+13 river/river_1336.tif 13 river
+1 industrial land/industrial land_1068.tif 1 industrial land
+15 pond/pond_1903.tif 15 pond
+2 urban residential/urban residential_593.tif 2 urban residential
+6 irrigated land/irrigated land_742.tif 6 irrigated land
+6 irrigated land/irrigated land_726.tif 6 irrigated land
+13 river/river_1630.tif 13 river
+2 urban residential/urban residential_1043.tif 2 urban residential
+12 artificial grassland/artificial grassland_348.tif 12 artificial grassland
+13 river/river_288.tif 13 river
+15 pond/pond_285.tif 15 pond
+8 garden plot/garden plot_1518.tif 8 garden plot
+7 dry cropland/dry cropland_1716.tif 7 dry cropland
+15 pond/pond_618.tif 15 pond
+5 paddy field/paddy field_1976.tif 5 paddy field
+15 pond/pond_288.tif 15 pond
+9 arbor woodland/arbor woodland_239.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_685.tif 12 artificial grassland
+4 traffic land/traffic land_440.tif 4 traffic land
+13 river/river_1344.tif 13 river
+12 artificial grassland/artificial grassland_1122.tif 12 artificial grassland
+14 lake/lake_731.tif 14 lake
+9 arbor woodland/arbor woodland_626.tif 9 arbor woodland
+2 urban residential/urban residential_989.tif 2 urban residential
+1 industrial land/industrial land_989.tif 1 industrial land
+11 natural grassland/natural grassland_1688.tif 11 natural grassland
+2 urban residential/urban residential_1706.tif 2 urban residential
+6 irrigated land/irrigated land_191.tif 6 irrigated land
+5 paddy field/paddy field_1019.tif 5 paddy field
+14 lake/lake_939.tif 14 lake
+4 traffic land/traffic land_393.tif 4 traffic land
+8 garden plot/garden plot_1609.tif 8 garden plot
+13 river/river_584.tif 13 river
+15 pond/pond_1051.tif 15 pond
+14 lake/lake_276.tif 14 lake
+8 garden plot/garden plot_171.tif 8 garden plot
+8 garden plot/garden plot_920.tif 8 garden plot
+2 urban residential/urban residential_1398.tif 2 urban residential
+13 river/river_653.tif 13 river
+7 dry cropland/dry cropland_526.tif 7 dry cropland
+6 irrigated land/irrigated land_304.tif 6 irrigated land
+12 artificial grassland/artificial grassland_1373.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_426.tif 12 artificial grassland
+1 industrial land/industrial land_303.tif 1 industrial land
+8 garden plot/garden plot_136.tif 8 garden plot
+8 garden plot/garden plot_1742.tif 8 garden plot
+9 arbor woodland/arbor woodland_911.tif 9 arbor woodland
+14 lake/lake_272.tif 14 lake
+5 paddy field/paddy field_653.tif 5 paddy field
+5 paddy field/paddy field_618.tif 5 paddy field
+1 industrial land/industrial land_573.tif 1 industrial land
+13 river/river_1757.tif 13 river
+12 artificial grassland/artificial grassland_841.tif 12 artificial grassland
+9 arbor woodland/arbor woodland_1990.tif 9 arbor woodland
+10 shrub land/shrub land_125.tif 10 shrub land
+4 traffic land/traffic land_1895.tif 4 traffic land
+1 industrial land/industrial land_498.tif 1 industrial land
+9 arbor woodland/arbor woodland_552.tif 9 arbor woodland
+7 dry cropland/dry cropland_1400.tif 7 dry cropland
+7 dry cropland/dry cropland_1132.tif 7 dry cropland
+7 dry cropland/dry cropland_684.tif 7 dry cropland
+14 lake/lake_1753.tif 14 lake
+14 lake/lake_205.tif 14 lake
+5 paddy field/paddy field_2.tif 5 paddy field
+5 paddy field/paddy field_416.tif 5 paddy field
+12 artificial grassland/artificial grassland_1244.tif 12 artificial grassland
+10 shrub land/shrub land_530.tif 10 shrub land
+6 irrigated land/irrigated land_761.tif 6 irrigated land
+7 dry cropland/dry cropland_263.tif 7 dry cropland
+11 natural grassland/natural grassland_506.tif 11 natural grassland
+4 traffic land/traffic land_1551.tif 4 traffic land
+10 shrub land/shrub land_422.tif 10 shrub land
+11 natural grassland/natural grassland_861.tif 11 natural grassland
+11 natural grassland/natural grassland_726.tif 11 natural grassland
+12 artificial grassland/artificial grassland_417.tif 12 artificial grassland
+10 shrub land/shrub land_679.tif 10 shrub land
+4 traffic land/traffic land_965.tif 4 traffic land
+5 paddy field/paddy field_1969.tif 5 paddy field
+3 rural residential/rural residential_628.tif 3 rural residential
+15 pond/pond_71.tif 15 pond
+2 urban residential/urban residential_1953.tif 2 urban residential
+7 dry cropland/dry cropland_830.tif 7 dry cropland
+2 urban residential/urban residential_576.tif 2 urban residential
+6 irrigated land/irrigated land_127.tif 6 irrigated land
+5 paddy field/paddy field_494.tif 5 paddy field
+8 garden plot/garden plot_481.tif 8 garden plot
+4 traffic land/traffic land_627.tif 4 traffic land
+12 artificial grassland/artificial grassland_118.tif 12 artificial grassland
+11 natural grassland/natural grassland_57.tif 11 natural grassland
+9 arbor woodland/arbor woodland_83.tif 9 arbor woodland
+13 river/river_1158.tif 13 river
+11 natural grassland/natural grassland_1979.tif 11 natural grassland
+14 lake/lake_1731.tif 14 lake
+5 paddy field/paddy field_1331.tif 5 paddy field
+7 dry cropland/dry cropland_1118.tif 7 dry cropland
+1 industrial land/industrial land_289.tif 1 industrial land
+9 arbor woodland/arbor woodland_1356.tif 9 arbor woodland
+7 dry cropland/dry cropland_449.tif 7 dry cropland
+3 rural residential/rural residential_656.tif 3 rural residential
+8 garden plot/garden plot_887.tif 8 garden plot
+6 irrigated land/irrigated land_882.tif 6 irrigated land
+15 pond/pond_786.tif 15 pond
+3 rural residential/rural residential_158.tif 3 rural residential
+8 garden plot/garden plot_1759.tif 8 garden plot
+1 industrial land/industrial land_426.tif 1 industrial land
+13 river/river_1915.tif 13 river
+2 urban residential/urban residential_479.tif 2 urban residential
+4 traffic land/traffic land_574.tif 4 traffic land
+8 garden plot/garden plot_191.tif 8 garden plot
+9 arbor woodland/arbor woodland_662.tif 9 arbor woodland
+10 shrub land/shrub land_315.tif 10 shrub land
+9 arbor woodland/arbor woodland_846.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_1371.tif 12 artificial grassland
+11 natural grassland/natural grassland_972.tif 11 natural grassland
+12 artificial grassland/artificial grassland_1814.tif 12 artificial grassland
+6 irrigated land/irrigated land_544.tif 6 irrigated land
+4 traffic land/traffic land_1027.tif 4 traffic land
+9 arbor woodland/arbor woodland_347.tif 9 arbor woodland
+1 industrial land/industrial land_48.tif 1 industrial land
+13 river/river_410.tif 13 river
+2 urban residential/urban residential_500.tif 2 urban residential
+7 dry cropland/dry cropland_467.tif 7 dry cropland
+3 rural residential/rural residential_1857.tif 3 rural residential
+13 river/river_588.tif 13 river
+7 dry cropland/dry cropland_1993.tif 7 dry cropland
+14 lake/lake_1842.tif 14 lake
+3 rural residential/rural residential_992.tif 3 rural residential
+4 traffic land/traffic land_953.tif 4 traffic land
+6 irrigated land/irrigated land_1721.tif 6 irrigated land
+1 industrial land/industrial land_936.tif 1 industrial land
+9 arbor woodland/arbor woodland_378.tif 9 arbor woodland
+2 urban residential/urban residential_939.tif 2 urban residential
+15 pond/pond_1090.tif 15 pond
+5 paddy field/paddy field_1358.tif 5 paddy field
+7 dry cropland/dry cropland_876.tif 7 dry cropland
+2 urban residential/urban residential_284.tif 2 urban residential
+4 traffic land/traffic land_809.tif 4 traffic land
+1 industrial land/industrial land_1561.tif 1 industrial land
+7 dry cropland/dry cropland_1024.tif 7 dry cropland
+13 river/river_1253.tif 13 river
+1 industrial land/industrial land_1580.tif 1 industrial land
+7 dry cropland/dry cropland_904.tif 7 dry cropland
+4 traffic land/traffic land_1304.tif 4 traffic land
+14 lake/lake_248.tif 14 lake
+8 garden plot/garden plot_726.tif 8 garden plot
+2 urban residential/urban residential_436.tif 2 urban residential
+3 rural residential/rural residential_784.tif 3 rural residential
+4 traffic land/traffic land_1699.tif 4 traffic land
+5 paddy field/paddy field_722.tif 5 paddy field
+6 irrigated land/irrigated land_298.tif 6 irrigated land
+9 arbor woodland/arbor woodland_1504.tif 9 arbor woodland
+1 industrial land/industrial land_1553.tif 1 industrial land
+14 lake/lake_851.tif 14 lake
+11 natural grassland/natural grassland_1940.tif 11 natural grassland
+12 artificial grassland/artificial grassland_1938.tif 12 artificial grassland
+2 urban residential/urban residential_292.tif 2 urban residential
+13 river/river_827.tif 13 river
+15 pond/pond_1354.tif 15 pond
+9 arbor woodland/arbor woodland_390.tif 9 arbor woodland
+8 garden plot/garden plot_692.tif 8 garden plot
+2 urban residential/urban residential_704.tif 2 urban residential
+4 traffic land/traffic land_25.tif 4 traffic land
+3 rural residential/rural residential_998.tif 3 rural residential
+3 rural residential/rural residential_531.tif 3 rural residential
+1 industrial land/industrial land_799.tif 1 industrial land
+6 irrigated land/irrigated land_863.tif 6 irrigated land
+7 dry cropland/dry cropland_1387.tif 7 dry cropland
+5 paddy field/paddy field_1485.tif 5 paddy field
+4 traffic land/traffic land_404.tif 4 traffic land
+6 irrigated land/irrigated land_106.tif 6 irrigated land
+3 rural residential/rural residential_1746.tif 3 rural residential
+1 industrial land/industrial land_1983.tif 1 industrial land
+4 traffic land/traffic land_626.tif 4 traffic land
+2 urban residential/urban residential_401.tif 2 urban residential
+6 irrigated land/irrigated land_1375.tif 6 irrigated land
+13 river/river_1677.tif 13 river
+14 lake/lake_413.tif 14 lake
+9 arbor woodland/arbor woodland_1909.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_1839.tif 12 artificial grassland
+13 river/river_233.tif 13 river
+14 lake/lake_418.tif 14 lake
+15 pond/pond_379.tif 15 pond
+15 pond/pond_1195.tif 15 pond
+8 garden plot/garden plot_467.tif 8 garden plot
+6 irrigated land/irrigated land_373.tif 6 irrigated land
+13 river/river_776.tif 13 river
+5 paddy field/paddy field_952.tif 5 paddy field
+10 shrub land/shrub land_1258.tif 10 shrub land
+10 shrub land/shrub land_1984.tif 10 shrub land
+10 shrub land/shrub land_662.tif 10 shrub land
+14 lake/lake_475.tif 14 lake
+9 arbor woodland/arbor woodland_420.tif 9 arbor woodland
+14 lake/lake_1947.tif 14 lake
+3 rural residential/rural residential_1705.tif 3 rural residential
+1 industrial land/industrial land_631.tif 1 industrial land
+1 industrial land/industrial land_1392.tif 1 industrial land
+9 arbor woodland/arbor woodland_1888.tif 9 arbor woodland
+1 industrial land/industrial land_921.tif 1 industrial land
+9 arbor woodland/arbor woodland_716.tif 9 arbor woodland
+7 dry cropland/dry cropland_738.tif 7 dry cropland
+7 dry cropland/dry cropland_229.tif 7 dry cropland
+4 traffic land/traffic land_946.tif 4 traffic land
+2 urban residential/urban residential_821.tif 2 urban residential
+5 paddy field/paddy field_212.tif 5 paddy field
+14 lake/lake_524.tif 14 lake
+5 paddy field/paddy field_1929.tif 5 paddy field
+13 river/river_594.tif 13 river
+4 traffic land/traffic land_717.tif 4 traffic land
+6 irrigated land/irrigated land_781.tif 6 irrigated land
+15 pond/pond_1789.tif 15 pond
+1 industrial land/industrial land_231.tif 1 industrial land
+6 irrigated land/irrigated land_143.tif 6 irrigated land
+13 river/river_1954.tif 13 river
+14 lake/lake_1612.tif 14 lake
+12 artificial grassland/artificial grassland_876.tif 12 artificial grassland
+11 natural grassland/natural grassland_67.tif 11 natural grassland
+3 rural residential/rural residential_1734.tif 3 rural residential
+2 urban residential/urban residential_499.tif 2 urban residential
+6 irrigated land/irrigated land_355.tif 6 irrigated land
+7 dry cropland/dry cropland_516.tif 7 dry cropland
+1 industrial land/industrial land_595.tif 1 industrial land
+11 natural grassland/natural grassland_910.tif 11 natural grassland
+5 paddy field/paddy field_1112.tif 5 paddy field
+11 natural grassland/natural grassland_585.tif 11 natural grassland
+10 shrub land/shrub land_505.tif 10 shrub land
+9 arbor woodland/arbor woodland_553.tif 9 arbor woodland
+5 paddy field/paddy field_1561.tif 5 paddy field
+7 dry cropland/dry cropland_622.tif 7 dry cropland
+2 urban residential/urban residential_75.tif 2 urban residential
+14 lake/lake_1748.tif 14 lake
+15 pond/pond_1555.tif 15 pond
+6 irrigated land/irrigated land_63.tif 6 irrigated land
+7 dry cropland/dry cropland_894.tif 7 dry cropland
+12 artificial grassland/artificial grassland_1630.tif 12 artificial grassland
+4 traffic land/traffic land_878.tif 4 traffic land
+2 urban residential/urban residential_127.tif 2 urban residential
+10 shrub land/shrub land_249.tif 10 shrub land
+6 irrigated land/irrigated land_22.tif 6 irrigated land
+6 irrigated land/irrigated land_1133.tif 6 irrigated land
+13 river/river_1855.tif 13 river
+6 irrigated land/irrigated land_605.tif 6 irrigated land
+5 paddy field/paddy field_804.tif 5 paddy field
+11 natural grassland/natural grassland_796.tif 11 natural grassland
+8 garden plot/garden plot_175.tif 8 garden plot
+14 lake/lake_1524.tif 14 lake
+1 industrial land/industrial land_333.tif 1 industrial land
+1 industrial land/industrial land_1907.tif 1 industrial land
+13 river/river_585.tif 13 river
+14 lake/lake_1858.tif 14 lake
+5 paddy field/paddy field_1954.tif 5 paddy field
+4 traffic land/traffic land_390.tif 4 traffic land
+5 paddy field/paddy field_113.tif 5 paddy field
+1 industrial land/industrial land_1291.tif 1 industrial land
+7 dry cropland/dry cropland_196.tif 7 dry cropland
+2 urban residential/urban residential_1210.tif 2 urban residential
+1 industrial land/industrial land_475.tif 1 industrial land
+13 river/river_613.tif 13 river
+15 pond/pond_733.tif 15 pond
+11 natural grassland/natural grassland_5.tif 11 natural grassland
+7 dry cropland/dry cropland_679.tif 7 dry cropland
+8 garden plot/garden plot_1649.tif 8 garden plot
+7 dry cropland/dry cropland_397.tif 7 dry cropland
+15 pond/pond_367.tif 15 pond
+5 paddy field/paddy field_896.tif 5 paddy field
+8 garden plot/garden plot_766.tif 8 garden plot
+6 irrigated land/irrigated land_590.tif 6 irrigated land
+6 irrigated land/irrigated land_1841.tif 6 irrigated land
+1 industrial land/industrial land_768.tif 1 industrial land
+6 irrigated land/irrigated land_573.tif 6 irrigated land
+15 pond/pond_497.tif 15 pond
+12 artificial grassland/artificial grassland_700.tif 12 artificial grassland
+11 natural grassland/natural grassland_418.tif 11 natural grassland
+13 river/river_1826.tif 13 river
+12 artificial grassland/artificial grassland_355.tif 12 artificial grassland
+3 rural residential/rural residential_1574.tif 3 rural residential
+5 paddy field/paddy field_1206.tif 5 paddy field
+6 irrigated land/irrigated land_1339.tif 6 irrigated land
+1 industrial land/industrial land_356.tif 1 industrial land
+12 artificial grassland/artificial grassland_771.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_1224.tif 12 artificial grassland
+12 artificial grassland/artificial grassland_1472.tif 12 artificial grassland
+6 irrigated land/irrigated land_49.tif 6 irrigated land
+11 natural grassland/natural grassland_955.tif 11 natural grassland
+7 dry cropland/dry cropland_1654.tif 7 dry cropland
+5 paddy field/paddy field_1450.tif 5 paddy field
+1 industrial land/industrial land_257.tif 1 industrial land
+13 river/river_1448.tif 13 river
+3 rural residential/rural residential_999.tif 3 rural residential
+4 traffic land/traffic land_680.tif 4 traffic land
+12 artificial grassland/artificial grassland_532.tif 12 artificial grassland
+5 paddy field/paddy field_225.tif 5 paddy field
+9 arbor woodland/arbor woodland_88.tif 9 arbor woodland
+3 rural residential/rural residential_430.tif 3 rural residential
+15 pond/pond_777.tif 15 pond
+3 rural residential/rural residential_753.tif 3 rural residential
+1 industrial land/industrial land_492.tif 1 industrial land
+10 shrub land/shrub land_173.tif 10 shrub land
+5 paddy field/paddy field_469.tif 5 paddy field
+7 dry cropland/dry cropland_1903.tif 7 dry cropland
+10 shrub land/shrub land_148.tif 10 shrub land
+12 artificial grassland/artificial grassland_716.tif 12 artificial grassland
+2 urban residential/urban residential_417.tif 2 urban residential
+1 industrial land/industrial land_1193.tif 1 industrial land
+6 irrigated land/irrigated land_1943.tif 6 irrigated land
+13 river/river_1699.tif 13 river
+14 lake/lake_339.tif 14 lake
+15 pond/pond_1867.tif 15 pond
+5 paddy field/paddy field_1461.tif 5 paddy field
+7 dry cropland/dry cropland_1198.tif 7 dry cropland
+13 river/river_1618.tif 13 river
+3 rural residential/rural residential_336.tif 3 rural residential
+4 traffic land/traffic land_524.tif 4 traffic land
+5 paddy field/paddy field_681.tif 5 paddy field
+1 industrial land/industrial land_182.tif 1 industrial land
+10 shrub land/shrub land_755.tif 10 shrub land
+14 lake/lake_587.tif 14 lake
+8 garden plot/garden plot_844.tif 8 garden plot
+5 paddy field/paddy field_1621.tif 5 paddy field
+10 shrub land/shrub land_199.tif 10 shrub land
+1 industrial land/industrial land_1982.tif 1 industrial land
+13 river/river_987.tif 13 river
+4 traffic land/traffic land_35.tif 4 traffic land
+8 garden plot/garden plot_417.tif 8 garden plot
+5 paddy field/paddy field_414.tif 5 paddy field
+4 traffic land/traffic land_1689.tif 4 traffic land
+3 rural residential/rural residential_490.tif 3 rural residential
+15 pond/pond_1312.tif 15 pond
+8 garden plot/garden plot_854.tif 8 garden plot
+12 artificial grassland/artificial grassland_1138.tif 12 artificial grassland
+15 pond/pond_1073.tif 15 pond
+1 industrial land/industrial land_1513.tif 1 industrial land
+8 garden plot/garden plot_489.tif 8 garden plot
+10 shrub land/shrub land_349.tif 10 shrub land
+13 river/river_771.tif 13 river
+12 artificial grassland/artificial grassland_691.tif 12 artificial grassland
+9 arbor woodland/arbor woodland_995.tif 9 arbor woodland
+1 industrial land/industrial land_406.tif 1 industrial land
+7 dry cropland/dry cropland_743.tif 7 dry cropland
+11 natural grassland/natural grassland_1488.tif 11 natural grassland
+12 artificial grassland/artificial grassland_455.tif 12 artificial grassland
+7 dry cropland/dry cropland_690.tif 7 dry cropland
+12 artificial grassland/artificial grassland_324.tif 12 artificial grassland
+2 urban residential/urban residential_265.tif 2 urban residential
+8 garden plot/garden plot_415.tif 8 garden plot
+10 shrub land/shrub land_1927.tif 10 shrub land
+11 natural grassland/natural grassland_1029.tif 11 natural grassland
+5 paddy field/paddy field_383.tif 5 paddy field
+15 pond/pond_1299.tif 15 pond
+5 paddy field/paddy field_1870.tif 5 paddy field
+12 artificial grassland/artificial grassland_1667.tif 12 artificial grassland
+10 shrub land/shrub land_1822.tif 10 shrub land
+7 dry cropland/dry cropland_1701.tif 7 dry cropland
+7 dry cropland/dry cropland_683.tif 7 dry cropland
+10 shrub land/shrub land_940.tif 10 shrub land
+5 paddy field/paddy field_1359.tif 5 paddy field
+3 rural residential/rural residential_1786.tif 3 rural residential
+9 arbor woodland/arbor woodland_1943.tif 9 arbor woodland
+12 artificial grassland/artificial grassland_1733.tif 12 artificial grassland
+7 dry cropland/dry cropland_1313.tif 7 dry cropland
+2 urban residential/urban residential_1083.tif 2 urban residential
+12 artificial grassland/artificial grassland_791.tif 12 artificial grassland
+8 garden plot/garden plot_1344.tif 8 garden plot
+5 paddy field/paddy field_714.tif 5 paddy field
+8 garden plot/garden plot_432.tif 8 garden plot
+3 rural residential/rural residential_1114.tif 3 rural residential
+11 natural grassland/natural grassland_1445.tif 11 natural grassland
+14 lake/lake_528.tif 14 lake
+14 lake/lake_1140.tif 14 lake
+12 artificial grassland/artificial grassland_1625.tif 12 artificial grassland
+11 natural grassland/natural grassland_1893.tif 11 natural grassland
+10 shrub land/shrub land_661.tif 10 shrub land
+3 rural residential/rural residential_1532.tif 3 rural residential
+8 garden plot/garden plot_946.tif 8 garden plot
+7 dry cropland/dry cropland_1736.tif 7 dry cropland
+12 artificial grassland/artificial grassland_1897.tif 12 artificial grassland
+1 industrial land/industrial land_237.tif 1 industrial land
+7 dry cropland/dry cropland_241.tif 7 dry cropland
+4 traffic land/traffic land_216.tif 4 traffic land
+14 lake/lake_204.tif 14 lake
+13 river/river_326.tif 13 river
+11 natural grassland/natural grassland_416.tif 11 natural grassland
+1 industrial land/industrial land_1428.tif 1 industrial land
+7 dry cropland/dry cropland_204.tif 7 dry cropland
+7 dry cropland/dry cropland_872.tif 7 dry cropland
+14 lake/lake_54.tif 14 lake
+10 shrub land/shrub land_268.tif 10 shrub land
+3 rural residential/rural residential_201.tif 3 rural residential
+7 dry cropland/dry cropland_877.tif 7 dry cropland
+2 urban residential/urban residential_1519.tif 2 urban residential
+9 arbor woodland/arbor woodland_1452.tif 9 arbor woodland
+5 paddy field/paddy field_886.tif 5 paddy field
+13 river/river_1370.tif 13 river
+5 paddy field/paddy field_518.tif 5 paddy field
+10 shrub land/shrub land_1298.tif 10 shrub land
+11 natural grassland/natural grassland_1314.tif 11 natural grassland
+6 irrigated land/irrigated land_1318.tif 6 irrigated land
+15 pond/pond_109.tif 15 pond
+9 arbor woodland/arbor woodland_191.tif 9 arbor woodland
+3 rural residential/rural residential_1845.tif 3 rural residential
+14 lake/lake_222.tif 14 lake
+15 pond/pond_1483.tif 15 pond
+3 rural residential/rural residential_817.tif 3 rural residential
+4 traffic land/traffic land_251.tif 4 traffic land
+4 traffic land/traffic land_1241.tif 4 traffic land
+8 garden plot/garden plot_1338.tif 8 garden plot
+8 garden plot/garden plot_397.tif 8 garden plot
+4 traffic land/traffic land_1504.tif 4 traffic land
+14 lake/lake_57.tif 14 lake
+15 pond/pond_493.tif 15 pond
+7 dry cropland/dry cropland_330.tif 7 dry cropland
+5 paddy field/paddy field_1655.tif 5 paddy field
+7 dry cropland/dry cropland_942.tif 7 dry cropland
+9 arbor woodland/arbor woodland_267.tif 9 arbor woodland
+8 garden plot/garden plot_1692.tif 8 garden plot
+12 artificial grassland/artificial grassland_187.tif 12 artificial grassland
+14 lake/lake_604.tif 14 lake
+7 dry cropland/dry cropland_729.tif 7 dry cropland
+10 shrub land/shrub land_977.tif 10 shrub land
+8 garden plot/garden plot_299.tif 8 garden plot
+2 urban residential/urban residential_482.tif 2 urban residential
+4 traffic land/traffic land_138.tif 4 traffic land
+13 river/river_253.tif 13 river
+15 pond/pond_1162.tif 15 pond
+15 pond/pond_686.tif 15 pond
+13 river/river_994.tif 13 river
+6 irrigated land/irrigated land_109.tif 6 irrigated land
+1 industrial land/industrial land_856.tif 1 industrial land
+15 pond/pond_463.tif 15 pond
+7 dry cropland/dry cropland_647.tif 7 dry cropland
+1 industrial land/industrial land_784.tif 1 industrial land
+12 artificial grassland/artificial grassland_940.tif 12 artificial grassland
+10 shrub land/shrub land_1170.tif 10 shrub land
+15 pond/pond_778.tif 15 pond
+14 lake/lake_1229.tif 14 lake
+4 traffic land/traffic land_510.tif 4 traffic land
+6 irrigated land/irrigated land_597.tif 6 irrigated land
+8 garden plot/garden plot_487.tif 8 garden plot
+1 industrial land/industrial land_49.tif 1 industrial land
+13 river/river_87.tif 13 river
+8 garden plot/garden plot_753.tif 8 garden plot
+5 paddy field/paddy field_246.tif 5 paddy field
+2 urban residential/urban residential_483.tif 2 urban residential
+15 pond/pond_185.tif 15 pond
+11 natural grassland/natural grassland_203.tif 11 natural grassland
+4 traffic land/traffic land_567.tif 4 traffic land
+14 lake/lake_368.tif 14 lake
+15 pond/pond_864.tif 15 pond
+7 dry cropland/dry cropland_1839.tif 7 dry cropland
+15 pond/pond_1806.tif 15 pond
+13 river/river_124.tif 13 river
+15 pond/pond_1848.tif 15 pond
+9 arbor woodland/arbor woodland_1650.tif 9 arbor woodland
+13 river/river_769.tif 13 river
+14 lake/lake_79.tif 14 lake
+1 industrial land/industrial land_1402.tif 1 industrial land
+13 river/river_275.tif 13 river
+8 garden plot/garden plot_149.tif 8 garden plot
+2 urban residential/urban residential_750.tif 2 urban residential
+10 shrub land/shrub land_403.tif 10 shrub land
+1 industrial land/industrial land_1689.tif 1 industrial land
+6 irrigated land/irrigated land_293.tif 6 irrigated land
+9 arbor woodland/arbor woodland_498.tif 9 arbor woodland
+10 shrub land/shrub land_500.tif 10 shrub land
+14 lake/lake_776.tif 14 lake
+7 dry cropland/dry cropland_142.tif 7 dry cropland
+10 shrub land/shrub land_501.tif 10 shrub land
+14 lake/lake_360.tif 14 lake
+14 lake/lake_1336.tif 14 lake
+11 natural grassland/natural grassland_1863.tif 11 natural grassland
+4 traffic land/traffic land_32.tif 4 traffic land
+10 shrub land/shrub land_65.tif 10 shrub land
+5 paddy field/paddy field_1074.tif 5 paddy field
+1 industrial land/industrial land_624.tif 1 industrial land
+13 river/river_1415.tif 13 river
+3 rural residential/rural residential_938.tif 3 rural residential
+6 irrigated land/irrigated land_389.tif 6 irrigated land
+12 artificial grassland/artificial grassland_702.tif 12 artificial grassland
+13 river/river_143.tif 13 river
+9 arbor woodland/arbor woodland_1308.tif 9 arbor woodland
+5 paddy field/paddy field_789.tif 5 paddy field
+5 paddy field/paddy field_581.tif 5 paddy field
